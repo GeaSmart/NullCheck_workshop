@@ -1,0 +1,14 @@
+C:\Users\gerso\source\repos\NullCheck\NullCheck\bin\Debug\net7.0\NullCheck.exe
+C:\Users\gerso\source\repos\NullCheck\NullCheck\bin\Debug\net7.0\NullCheck.deps.json
+C:\Users\gerso\source\repos\NullCheck\NullCheck\bin\Debug\net7.0\NullCheck.runtimeconfig.json
+C:\Users\gerso\source\repos\NullCheck\NullCheck\bin\Debug\net7.0\NullCheck.dll
+C:\Users\gerso\source\repos\NullCheck\NullCheck\bin\Debug\net7.0\NullCheck.pdb
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.AssemblyInfoInputs.cache
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.AssemblyInfo.cs
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.dll
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\refint\NullCheck.dll
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.pdb
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\NullCheck.genruntimeconfig.cache
+C:\Users\gerso\source\repos\NullCheck\NullCheck\obj\Debug\net7.0\ref\NullCheck.dll
